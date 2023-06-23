@@ -1,0 +1,1 @@
+TOKEN = "6187681742:AAHMcjDsOuolgXOHaieTm6EOO7MHBBAvsAc" # bot token from @BotFather
